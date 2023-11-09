@@ -15,3 +15,4 @@ Zusammenfassungen des Studienganges Elektro- und Informationstechnik WS 2023/24
 ## 🧮Analysis 1🧮
 
 -   [Erste Zusammenfassung](/Analysis_1/Analysis_1_1.png)
+-   [Zweite Zusammenfassung](/Analysis_1/Analysis_1_2.pdf)
