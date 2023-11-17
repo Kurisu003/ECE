@@ -9,14 +9,12 @@ Zusammenfassungen des Studienganges Elektro- und Informationstechnik WS 2023/24
 ## ⚡Schaltungstheorie⚡
 
 -   [Erste Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_1.png) und [dazugehöriges Video](https://www.youtube.com/watch?v=NnK4rBzMl0s)
-
 -   [Zweite Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_2.png) und [dazugehöriges Video](https://www.youtube.com/watch?v=S2WF1JfdYZg)
-
 -   [Dritte & Vierte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_3_4.pdf)
-
 -   [Fünfte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_5.pdf)
 
 ## 🧮Analysis 1🧮
 
--   [Erste Zusammenfassung](/Analysis_1/Analysis_1_1.png)
--   [Zweite Zusammenfassung](/Analysis_1/Analysis_1_2.pdf)
+-   [Erste Zusammenfassung](/Analysis_1/AN1_ZF_1.png)
+-   [Zweite & Dritte Zusammenfassung](/Analysis_1/AN1_ZF_2-3.pdf)
+-   [Vierte & Fünfte Zusammenfassung](/Analysis_1/AN1_ZF_4-5.pdf)
