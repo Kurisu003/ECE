@@ -20,5 +20,5 @@ Zusammenfassungen des Studienganges Elektro- und Informationstechnik WS 2023/24
 -   [Vierte & Fünfte Zusammenfassung](/Analysis_1/AN1_ZF_4-5.pdf)
 
 ## 📐Lineare Algebra📐
-- [Erste bis Neunte Zusammenfassung[(/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
+- [Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
 - 
