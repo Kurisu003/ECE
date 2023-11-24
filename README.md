@@ -21,9 +21,39 @@
         - Dioden </br>
         - Parallel & Serienschaltung </br>
     </details>
--   [📝 Zweite Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_2.png) und [📸 dazugehöriges Video](https://www.youtube.com/watch?v=S2WF1JfdYZg)
--   [📝 Dritte & Vierte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_3_4.pdf) und [📸 dazugehöriges Video](https://youtu.be/OijX-3kgo4M)
--   [📝 Fünfte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_5.pdf) und [📸 dazugehöriges Video](https://youtu.be/QsurjCyJBD0)
+-   [📝 Zweite Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_2.png) und [📸 dazugehöriges Video](https://www.youtube.com/watch?v=S2WF1JfdYZg)  
+    <details>
+      <summary>Themen</summary>
+        - Lineare Quellen </br>
+        - Kurzschluss & Leerlauf </br>
+        - Unabhängige (Konstante) Quellen </br>
+        - Ideale Dioden, Konkave- & Konvexe Widerstände </br>
+        - Eintorschaltungen (Quelle & Last) </br>
+        - Arbeitspunkt finden </br>
+        - Linearisierung </br>
+        - Kleinsignalanalyse </br>
+    </details>
+-   [📝 Dritte & Vierte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_3_4.pdf) und [📸 dazugehöriges Video](https://youtu.be/OijX-3kgo4M)  
+    <details>
+      <summary>Themen</summary>
+        - Zweitore </br>
+        - Beschreibungsformen Zweitore </br>
+        - Str. lin. Zweitore </br>
+        - Beschreibungsformen str. lin. Zweitore (Kern & Bild) </br>
+        - Zweitormatrizen & Umwandlungstabelle </br>
+        - Nicht Quellenfreie lin. Zweitore (∉ (0,0)) </br>
+        - Explizite Beschreibung </br>
+        - Linearisierung von Zweitoren </br>
+    </details>
+-   [📝 Fünfte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_5.pdf) und [📸 dazugehöriges Video](https://youtu.be/QsurjCyJBD0)  
+    <details>
+      <summary>Themen</summary>
+        - Leistungsbilanz Zweitore </br>
+        - Passiv & Aktiv </br>
+        - Dualität bei Zweitoren </br>
+        - Symmetrie </br>
+        - Reziprozität </br>
+    </details>
 
 ## 🧮Analysis 1🧮
 
