@@ -54,6 +54,17 @@
         - Symmetrie </br>
         - Reziprozität </br>
     </details>
+-   [📝 Sechste Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_6.pdf) 
+    <details>
+      <summary>Themen</summary>
+        - Gesteuerte Quellen </br>
+        - Nullor </br>
+        - Übertrager (Spule) </br>
+        - Gyrator (Dualwandler) </br>
+        - NIK (Widerstands-Umkehrung) </br>
+        - Parallel-/Serie-/Hybrid- & Kettenschaltung von Zweitoren </br>
+        - Anfang OPVs </br>
+    </details>
 
 ## 🧮Analysis 1🧮
 
