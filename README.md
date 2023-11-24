@@ -11,7 +11,7 @@
 -   [📝 Erste Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_1.png) und [📸 dazugehöriges Video](https://www.youtube.com/watch?v=NnK4rBzMl0s)  
     <details>
       <summary>Themen</summary>
-        - KCL & KVL
+        - KCL & KVL </br>
         - Beschreibungsformen
         - Polung & Leistung
         - Quellenfreiheit
