@@ -16,7 +16,7 @@
     - Dualwandlung
     - Nullator/Norator
     - Widerstände
-    - <details>
+<details>
   <summary>Click me</summary>
   
   ### Heading
