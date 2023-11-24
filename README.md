@@ -12,14 +12,14 @@
     <details>
       <summary>Themen</summary>
         - KCL & KVL </br>
-        - Beschreibungsformen
-        - Polung & Leistung
-        - Quellenfreiheit
-        - Dualwandlung
-        - Nullator/Norator
-        - Widerstände
-        - Dioden
-        - Parallel & Serienschaltung
+        - Beschreibungsformen </br>
+        - Polung & Leistung </br>
+        - Quellenfreiheit </br>
+        - Dualwandlung </br>
+        - Nullator/Norator </br>
+        - Widerstände </br>
+        - Dioden </br>
+        - Parallel & Serienschaltung </br>
     </details>
 -   [📝 Zweite Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_2.png) und [📸 dazugehöriges Video](https://www.youtube.com/watch?v=S2WF1JfdYZg)
 -   [📝 Dritte & Vierte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_3_4.pdf) und [📸 dazugehöriges Video](https://youtu.be/OijX-3kgo4M)
