@@ -9,7 +9,7 @@
 ## ⚡Schaltungstheorie⚡
 
 -   [📝 Erste Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_1.png) und [📸 dazugehöriges Video](https://www.youtube.com/watch?v=NnK4rBzMl0s)
--   - test
+    - test
 -   [📝 Zweite Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_2.png) und [📸 dazugehöriges Video](https://www.youtube.com/watch?v=S2WF1JfdYZg)
 -   [📝 Dritte & Vierte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_3_4.pdf) und [📸 dazugehöriges Video](https://youtu.be/OijX-3kgo4M)
 -   [📝 Fünfte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_5.pdf) und [📸 dazugehöriges Video](https://youtu.be/QsurjCyJBD0)
