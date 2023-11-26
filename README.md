@@ -54,7 +54,7 @@
         - Symmetrie </br>
         - Reziprozität </br>
     </details>
--   [📝 Sechste Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_6.pdf) 
+-   [📝 Sechste Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_6.pdf) und [📸 dazugehöriges Video](https://youtu.be/RFoMuLUwWtQ)  
     <details>
       <summary>Themen</summary>
         - Gesteuerte Quellen </br>
