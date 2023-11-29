@@ -69,8 +69,35 @@
 ## 🧮Analysis 1🧮
 
 -   [📝 Erste Zusammenfassung](/Analysis_1/AN1_ZF_1.png)
+    <details>
+      <summary>Themen</summary>
+        - Mengen </br>
+        - Induktion </br>
+        - Summen & Produktregeln </br>
+        - Zahlenmengen </br>
+        - Ungleichungen </br>
+        - Intervalle (Inf. Sup. Min. Max.) </br>
+        - Trigonometrische Funktionen </br>
+        - Komplexe Zahlen </br>
+        - Darstellungsarten komplexer Zahlen </br>
+    </details>
 -   [📝 Zweite & Dritte Zusammenfassung](/Analysis_1/AN1_ZF_2-3.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Folgen & Reihen </br>
+        - Beschränktheit </br>
+        - Grenzwertbestimmung </br>
+        - Rechentricks mit Folgen </br>
+    </details>
 -   [📝 Vierte & Fünfte Zusammenfassung](/Analysis_1/AN1_ZF_4-5.pdf)
-
+    <details>
+      <summary>Themen</summary>
+        - Sandwhich Theorem </br>
+        - Monotonie von Folgen </br>
+        - Cauhy-Konvergenzkriterium </br>
+        - Teilfolgen </br>
+        - Reihen & Konvergenzkriterien </br>
+    </details>
+    
 ## 📐Lineare Algebra📐
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
