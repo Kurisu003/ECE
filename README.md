@@ -98,6 +98,18 @@
         - Teilfolgen </br>
         - Reihen & Konvergenzkriterien </br>
     </details>
+-   [📝 Sechste Zusammenfassung](/Analysis_1/AN1_ZF_6.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Cauchy Kriterium für Reihen </br>
+        - Absolute Konvergenz </br>
+        - Leibniz Kriterium </br>
+        - Majorantenkriterium </br>
+        - Quotientenkriterium </br>
+        - Wurzelkriterium </br>
+        - Funktionsgrenzwerte </br>
+        - Rechenregeln Funktionsgrenzwerte </br>
+    </details>
     
 ## 📐Lineare Algebra📐
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
