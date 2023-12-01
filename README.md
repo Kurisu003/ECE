@@ -65,7 +65,19 @@
         - Parallel-/Serie-/Hybrid- & Kettenschaltung von Zweitoren </br>
         - Anfang OPVs </br>
     </details>
-
+-   [📝 Siebte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_7.pdf)  
+    <details>
+      <summary>Themen</summary>
+        - OPV </br>
+        - Idealisierte Darstellung </br>
+        - Invertierender Verstärker </br>
+        - VCVS Model </br>
+        - Nicht inv. Verstärker </br>
+        - Spannungsfolger </br>
+        - NIK mit OPVs </br>
+        - Ideale Diode mit OPVs </br>
+    </details>
+    
 ## 🧮Analysis 1🧮
 
 -   [📝 Erste Zusammenfassung](/Analysis_1/AN1_ZF_1.png)
