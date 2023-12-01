@@ -122,6 +122,18 @@
         - Funktionsgrenzwerte </br>
         - Rechenregeln Funktionsgrenzwerte </br>
     </details>
+-   [📝 Siebte Zusammenfassung](/Analysis_1/AN1_ZF_7.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Sandwhich Kriterium </br>
+        - Stetigkeit von Funktionen </br>
+        - Stetige Funktionen in ganz R </br>
+        - Stetigkeit fortsetzen </br>
+        - Nullstellen annähern </br>
+        - Selbstabbildung </br>
+        - Folgen in C </br>
+        - Reihen in C </br>
+    </details>
     
 ## 📐Lineare Algebra📐
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
