@@ -65,7 +65,7 @@
         - Parallel-/Serie-/Hybrid- & Kettenschaltung von Zweitoren </br>
         - Anfang OPVs </br>
     </details>
--   [📝 Siebte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_7.pdf)  
+-   [📝 Siebte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_7.pdf) und [📸 dazugehöriges Video](https://youtu.be/caF68ii2SLU)  
     <details>
       <summary>Themen</summary>
         - OPV </br>
