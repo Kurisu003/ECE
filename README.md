@@ -77,7 +77,7 @@
         - NIK mit OPVs </br>
         - Ideale Diode mit OPVs </br>
     </details>
-    
+<md-divider></md-divider>
 ## 🧮Analysis 1🧮
 
 -   [📝 Erste Zusammenfassung](/Analysis_1/AN1_ZF_1.png)
