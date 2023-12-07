@@ -78,7 +78,7 @@
         - Ideale Diode mit OPVs </br>
     </details>
 #### Formelsammlung
--    [📜 Formelsammlung Semestrale](/Schaltungstheorie/Formelsammlung/ST%20Formelsammlung%20v2.pdf)
+-    [📜 Formelsammlung Semestrale](/Schaltungstheorie/Formelsammlung/ST%20Formelsammulng%20v2.pdf)
 
 ## 🧮Analysis 1🧮
 
