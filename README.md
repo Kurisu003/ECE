@@ -163,3 +163,4 @@
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
 -   [📝 Zehnte & Elfte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_10-11.pdf)
 -   [📝 12. & 13. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_12-13.pdf)
+-   [📝 14. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_14.pdf)
