@@ -77,6 +77,16 @@
         - NIK mit OPVs </br>
         - Ideale Diode mit OPVs </br>
     </details>
+-   [📝 Achte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_8.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Konkave- & Konvexe Widerstände mit OPVs </br>
+        - Virtuelle Masse </br>
+        - Summierer </br>
+        - VCVS </br>
+        - CCVS </br>
+        - VCCS </br>
+    </details>
 #### Formelsammlung
 -    [📜 Formelsammlung Semestrale](/Schaltungstheorie/Formelsammlung/ST%20Formelsammulng%20v2.pdf)
 
@@ -136,8 +146,21 @@
         - Folgen in C </br>
         - Reihen in C </br>
     </details>
+-   [📝 Achte Zusammenfassung](/Analysis_1/AN1_ZF_8.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Majorentenkriterium in C </br>
+        - Geometrische Reihe in C </br>
+        - Quotientenkriterium in C </br>
+        - Komplexe Exponentialfunktion </br>
+        - Potenzreihen </br>
+        - Konvergenzradius in C & in R </br>
+        - Limsup & Limin </br>
+        - Konvergenzradius berechnen </br>
+    </details>
     
 ## 📐Lineare Algebra📐
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
 -   [📝 Zehnte & Elfte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_10-11.pdf)
 -   [📝 12. & 13. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_12-13.pdf)
+-   [📝 14. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_14.pdf)
