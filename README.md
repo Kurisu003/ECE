@@ -146,6 +146,18 @@
         - Folgen in C </br>
         - Reihen in C </br>
     </details>
+-   [📝 Achte Zusammenfassung](/Analysis_1/AN1_ZF_8.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Majorentenkriterium in C </br>
+        - Geometrische Reihe in C </br>
+        - Quotientenkriterium in C </br>
+        - Komplexe Exponentialfunktion </br>
+        - Potenzreihen </br>
+        - Konvergenzradius in C & in R </br>
+        - Limsup & Limin </br>
+        - Konvergenzradius berechnen </br>
+    </details>
     
 ## 📐Lineare Algebra📐
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
