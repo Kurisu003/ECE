@@ -77,7 +77,7 @@
         - NIK mit OPVs </br>
         - Ideale Diode mit OPVs </br>
     </details>
--   [📝 Achte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_8.pdf)
+-   [📝 Achte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_8.pdf) und [📸 dazugehöriges Video](https://youtu.be/51j7sS_fbtg)  
     <details>
       <summary>Themen</summary>
         - Konkave- & Konvexe Widerstände mit OPVs </br>
