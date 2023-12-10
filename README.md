@@ -77,6 +77,16 @@
         - NIK mit OPVs </br>
         - Ideale Diode mit OPVs </br>
     </details>
+-   [📝 Achte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_8.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Konkave- & Konvexe Widerstände mit OPVs </br>
+        - Virtuelle Masse </br>
+        - Summierer </br>
+        - VCVS </br>
+        - CCVS </br>
+        - VCCS </br>
+    </details>
 #### Formelsammlung
 -    [📜 Formelsammlung Semestrale](/Schaltungstheorie/Formelsammlung/ST%20Formelsammulng%20v2.pdf)
 
