@@ -158,7 +158,10 @@
         - Limsup & Limin </br>
         - Konvergenzradius berechnen </br>
     </details>
-    
+#### Formelsammlung
+-    [📜 Formelsammlung bis ZF 8](/Analysis_1/Formelsammulng.pdf)
+
+
 ## 📐Lineare Algebra📐
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
 -   [📝 Zehnte & Elfte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_10-11.pdf)
