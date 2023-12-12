@@ -159,7 +159,7 @@
         - Konvergenzradius berechnen </br>
     </details>
 #### Formelsammlung
--    [📜 Formelsammlung bis ZF 8](/Analysis_1/Formelsammulng.pdf)
+-    [📜 Formelsammlung bis ZF 8](/Analysis_1/Formelsammlung.pdf)
 
 
 ## 📐Lineare Algebra📐
