@@ -87,6 +87,17 @@
         - CCVS </br>
         - VCCS </br>
     </details>
+-   [📝 Neunte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_9.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Mehrtor Beschreibungsformen </br>
+        - Spezielle Mehrtore (Übertrager, Zirkulator & Mult./Div.) </br>
+        - Allgemeine Analyseverfahren </br>
+        - Netzwerkgraphen & Bäume</br>
+        - KVL & KCL aufstellen </br>
+        - KVL & KCL als Matrizen schreiben </br>
+    </details>
+
 #### Formelsammlung
 -    [📜 Formelsammlung Semestrale](/Schaltungstheorie/Formelsammlung/ST%20Formelsammulng%20v2.pdf)
 
@@ -158,6 +169,17 @@
         - Limsup & Limin </br>
         - Konvergenzradius berechnen </br>
     </details>
+-   [📝 Neunte Zusammenfassung](/Analysis_1/AN1_ZF_9.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Ableitungen </br>
+        - Ableitungen von Potenzreihen </br>
+        - Extremstellen & Mittelwertssatz </br>
+        - Extremstellen finden </br>
+        - Satz von Rolle </br>
+        - Mittelwertsatz </br>
+    </details>
+
 #### Formelsammlung
 -    [📜 Formelsammlung bis ZF 8](/Analysis_1/Formelsammlung.pdf)
 
