@@ -166,7 +166,7 @@
         - Komplexe Exponentialfunktion </br>
         - Potenzreihen </br>
         - Konvergenzradius in C & in R </br>
-        - Limsup & Limin </br>
+        - Limsup & Liminf </br>
         - Konvergenzradius berechnen </br>
     </details>
 -   [📝 Neunte Zusammenfassung](/Analysis_1/AN1_ZF_9.pdf)
