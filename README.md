@@ -190,7 +190,9 @@
         - Konkav & Konvex </br>
         - Wendepunkt </br>
         - Umkehrfunktion </br>
-        - Bild, Surj., Inj. </br>
+        - Bild, Surj., Inj., Bij. </br>
+        - Log. </br>
+        - L'Hospital </br>
     </details>
 -   [📝 Elfte Zusammenfassung](/Analysis_1/AN1_ZF_9.pdf)
     <details>
