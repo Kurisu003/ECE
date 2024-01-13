@@ -97,6 +97,17 @@
         - KVL & KCL aufstellen </br>
         - KVL & KCL als Matrizen schreiben </br>
     </details>
+-   [📝 Zehnte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_10.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Inzidenzmatrix </br>
+        - ⚠️⚠️Tellegen'scher Satz⚠️⚠️ </br>
+        - Tableugleichungen </br>
+        - Knotenspannungsanalyse </br>
+        - Nicht Lineare Netzwerkelemente </br>
+        - Newton Raphson </br>
+        - Reduzierte Knotenspannungsanalyse </br>
+    </details>
 
 #### Formelsammlung
 -    [📜 Formelsammlung Semestrale](/Schaltungstheorie/Formelsammlung/ST%20Formelsammulng%20v2.pdf)
