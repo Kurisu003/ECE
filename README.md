@@ -179,6 +179,29 @@
         - Satz von Rolle </br>
         - Mittelwertsatz </br>
     </details>
+-   [📝 Zehnte Zusammenfassung](/Analysis_1/AN1_ZF_10.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Mittelwertsatz Diff.-Rechnung </br>
+        - Monotonie (NUR auf Intervall), Umkehrfunktion </br>
+        - Stationäre Punkte (lok. min/max) </br>
+        - Min/Max finden </br>
+        - Alternativer Extremwerttest </br>
+        - Konkav & Konvex </br>
+        - Wendepunkt </br>
+        - Umkehrfunktion </br>
+        - Bild, Surj., Inj. </br>
+    </details>
+-   [📝 Elfte Zusammenfassung](/Analysis_1/AN1_ZF_9.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Ableitungen </br>
+        - Ableitungen von Potenzreihen </br>
+        - Extremstellen & Mittelwertssatz </br>
+        - Extremstellen finden </br>
+        - Satz von Rolle </br>
+        - Mittelwertsatz </br>
+    </details>
 
 #### Formelsammlung
 -    [📜 Formelsammlung bis ZF 8](/Analysis_1/Formelsammlung.pdf)
