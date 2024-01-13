@@ -224,5 +224,35 @@
         - Matrix Hauptsatz a-q </br>
     </details>
 -   [📝 12. & 13. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_12-13.pdf)
+    <details>
+      <summary>Themen</summary>
+        - [v]_B = B^(-1) * v </br>
+        - [f]_B = B^(-1) * [f] * B </br>
+        - Diagonalisierbarkeit </br>
+        - Eigenwerte & Eigenvektoren </br>
+        - Determinante berechnen </br>
+        - Charakteristisches Polynom = 0 => Eigenwerte </br>
+    </details>
 -   [📝 14. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_14.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Dreiecksmatrizen (Det = Produkt diag.) </br>
+        - Det. von Elementarmatrizen </br>
+        - Invertierbarkeit & Determinante </br>
+        - Determinanten Hauptsatz </br>
+    </details>
 -   [📝 15. & 16. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_15-16.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Matrix Hauptsatz a-s </br>
+        - 8.33 (Determinanten fuckery) </br>
+        - Determinantenmultiplikationssatz </br>
+        - Det = Fläche von Parallelotop </br>
+        - Charakteristisches Polynom </br>
+        - Eigenwerte & Eigenvektoren bestimmen 2.0 </br>
+        - Eigenwerte & Potenzen </br>
+        - 8.44 (Eigenwert fuckery) </br>
+        - Geometrische Vielfachheit </br>
+        - Ähnlichkeit </br>
+        - Algebraische Vielfachheit </br>
+    </details>
