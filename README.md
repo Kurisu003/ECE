@@ -256,3 +256,19 @@
         - Ähnlichkeit </br>
         - Algebraische Vielfachheit </br>
     </details>
+-   [📝 17. & 18. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_17-18.pdf)
+    <details>
+      <summary>Themen</summary>
+        - 8.55 (mga fuckery) </br>
+        - Differentialgleichungen </br>
+        - Differentialgleichungssysteme </br>
+    </details>
+-   [📝 19. & 20. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_19-20.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Orthogonale Menge </br>
+        - Orthogonalbasis </br>
+        - Koeffizienten von lin.-Komb. direkt berechnen </br>
+        - Ortho<b>NORMAL</b>basis
+        - Orthogonalmatrix wenn Spalten = Ortho<b>NORMAL</b>
+    </details>
