@@ -207,9 +207,22 @@
         - Matrixmultiplikation </br>
         - Matrixpotenzen </br>
         - Symmetrische Matrizen </br>
-        - Lin.-Komb. </br>
+        - Graphen/Adjazenzmatrix/Kantenzug </br>
+        - Matrix invertieren (Socks and shoes) </br>
     </details>
 -   [📝 Zehnte & Elfte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_10-11.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Unterräume </br>
+        - Spalten- & Zeilenraum </br>
+        - Basen </br>
+        - Dimension </br>
+        - Dim(Kern) </br>
+        - Rangsätze 2.0 </br>
+        - Lineare Abbildungen </br>
+        - Bild </br>
+        - Matrix Hauptsatz a-q </br>
+    </details>
 -   [📝 12. & 13. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_12-13.pdf)
 -   [📝 14. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_14.pdf)
 -   [📝 15. & 16. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_15-16.pdf)
