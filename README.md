@@ -194,15 +194,20 @@
         - Log. </br>
         - L'Hospital </br>
     </details>
--   [📝 Elfte Zusammenfassung](/Analysis_1/AN1_ZF_9.pdf)
+-   [📝 Elfte Zusammenfassung](/Analysis_1/AN1_ZF_11.pdf)
     <details>
       <summary>Themen</summary>
-        - Ableitungen </br>
-        - Ableitungen von Potenzreihen </br>
-        - Extremstellen & Mittelwertssatz </br>
-        - Extremstellen finden </br>
-        - Satz von Rolle </br>
-        - Mittelwertsatz </br>
+        - Best. Integral </br>
+        - Unter- & Obersumme </br>
+        - (Riemann)-Integral </br>
+        - Fallunterscheidung (vermeiden) </br>
+        - Mittelwertsatz der Integralrechnung </br>
+        - Stammfunktion </br>
+        - Unbest. Integral </br>
+        - Hauptsatz Dif.- & Int.-Rechnung </br>
+        - Integrationsmethoden </br>
+        - Partielles Int. </br>
+        - Substitution </br>
     </details>
 
 #### Formelsammlung
