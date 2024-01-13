@@ -186,6 +186,29 @@
 
 ## 📐Lineare Algebra📐
 -   [📝 Erste bis Neunte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_1-9.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Boolsche Algebra </br>
+        - Mengen </br>
+        - Vektoren </br>
+        - Skalarprodukt & Eukl. Norm </br>
+        - CSU, Orthogonalität, Dreiecksungl. </br>
+        - Projektion </br>
+        - LGS </br>
+        - Lin.-Komb. </br>
+        - ZSF </br>
+        - Gauß Elimination </br>
+        - Rangsätze </br>
+        - Strenge ZSF </br>
+        - Gauß Jordan Elimination </br>
+        - Lineare Hülle </br>
+        - Lin.-(Un-)Abhängigkeit </br>
+        - Elementarmatrizen </br>
+        - Matrixmultiplikation </br>
+        - Matrixpotenzen </br>
+        - Symmetrische Matrizen </br>
+        - Lin.-Komb. </br>
+    </details>
 -   [📝 Zehnte & Elfte Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_10-11.pdf)
 -   [📝 12. & 13. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_12-13.pdf)
 -   [📝 14. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_14.pdf)
