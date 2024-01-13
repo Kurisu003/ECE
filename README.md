@@ -179,6 +179,36 @@
         - Satz von Rolle </br>
         - Mittelwertsatz </br>
     </details>
+-   [📝 Zehnte Zusammenfassung](/Analysis_1/AN1_ZF_10.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Mittelwertsatz Diff.-Rechnung </br>
+        - Monotonie (NUR auf Intervall), Umkehrfunktion </br>
+        - Stationäre Punkte (lok. min/max) </br>
+        - Min/Max finden </br>
+        - Alternativer Extremwerttest </br>
+        - Konkav & Konvex </br>
+        - Wendepunkt </br>
+        - Umkehrfunktion </br>
+        - Bild, Surj., Inj., Bij. </br>
+        - Log. </br>
+        - L'Hospital </br>
+    </details>
+-   [📝 Elfte Zusammenfassung](/Analysis_1/AN1_ZF_11.pdf)
+    <details>
+      <summary>Themen</summary>
+        - Best. Integral </br>
+        - Unter- & Obersumme </br>
+        - (Riemann)-Integral </br>
+        - Fallunterscheidung (vermeiden) </br>
+        - Mittelwertsatz der Integralrechnung </br>
+        - Stammfunktion </br>
+        - Unbest. Integral </br>
+        - Hauptsatz Dif.- & Int.-Rechnung </br>
+        - Integrationsmethoden </br>
+        - Partielles Int. </br>
+        - Substitution </br>
+    </details>
 
 #### Formelsammlung
 -    [📜 Formelsammlung bis ZF 8](/Analysis_1/Formelsammlung.pdf)
@@ -269,6 +299,6 @@
         - Orthogonale Menge </br>
         - Orthogonalbasis </br>
         - Koeffizienten von lin.-Komb. direkt berechnen </br>
-        - Ortho<b>NORMAL</b>basis
-        - Orthogonalmatrix wenn Spalten = Ortho<b>NORMAL</b>
+        - Ortho<b>NORMAL</b>basis </br>
+        - Orthogonalmatrix wenn Spalten = Ortho<b>NORMAL</b> </br>
     </details>
