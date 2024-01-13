@@ -269,6 +269,6 @@
         - Orthogonale Menge </br>
         - Orthogonalbasis </br>
         - Koeffizienten von lin.-Komb. direkt berechnen </br>
-        - Ortho<b>NORMAL</b>basis
-        - Orthogonalmatrix wenn Spalten = Ortho<b>NORMAL</b>
+        - Ortho<b>NORMAL</b>basis </br>
+        - Orthogonalmatrix wenn Spalten = Ortho<b>NORMAL</b> </br>
     </details>
