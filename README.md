@@ -108,10 +108,16 @@
         - Newton Raphson </br>
         - Reduzierte Knotenspannungsanalyse </br>
     </details>
--   [📝 Zehnte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_10.pdf)
+-   [📝 Zehnte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_11.pdf)
     <details>
       <summary>Themen</summary>
-        - </br>
+        - Reduzierte Kettenspannungsanalyse </br>
+        - Nicht lin. Elemente einbinden </br>
+        - Knotenleitwertsmatrix direkt finden </br>
+        - Nicht Spannungsgesteuerte Elemente einbinden </br>
+        - Quellwandlung </br>
+        -  Ohm'sches Gesetz </br>
+        -  Gyrator/Dualwandlung </br>
     </details>
 
 #### Formelsammlung
