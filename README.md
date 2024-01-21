@@ -119,6 +119,11 @@
         -  Ohm'sches Gesetz </br>
         -  Gyrator/Dualwandlung </br>
     </details>
+-   [📝 12. Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_12.pdf)
+    <details>
+      <summary>Themen</summary>
+        - </br>
+    </details>
 
 #### Formelsammlung
 -    [📜 Formelsammlung Semestrale](/Schaltungstheorie/Formelsammlung/ST%20Formelsammulng%20v2.pdf)
@@ -231,6 +236,11 @@
         - Partielles Int. </br>
         - Substitution </br>
     </details>
+-   [📝 12. Zusammenfassung](/Analysis_1/AN1_ZF_12.pdf)
+    <details>
+      <summary>Themen</summary>
+        - </br>
+    </details>
 
 #### Formelsammlung
 -    [📜 Formelsammlung bis ZF 8](/Analysis_1/Formelsammlung.pdf)
@@ -323,4 +333,9 @@
         - Koeffizienten von lin.-Komb. direkt berechnen </br>
         - Ortho<b>NORMAL</b>basis </br>
         - Orthogonalmatrix wenn Spalten = Ortho<b>NORMAL</b> </br>
+    </details>
+-   [📝 21. & 22. Zusammenfassung](/Lineare_Algebra/LinAlg_ZF_21-22.pdf)
+    <details>
+      <summary>Themen</summary>
+        - </br>
     </details>
