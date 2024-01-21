@@ -108,7 +108,7 @@
         - Newton Raphson </br>
         - Reduzierte Knotenspannungsanalyse </br>
     </details>
--   [📝 Zehnte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_11.pdf)
+-   [📝 Elfte Zusammenfassung](/Schaltungstheorie/Zusammenfassungen/ST_ZF_11.pdf)
     <details>
       <summary>Themen</summary>
         - Reduzierte Kettenspannungsanalyse </br>
